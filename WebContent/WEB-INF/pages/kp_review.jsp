@@ -45,7 +45,7 @@
 			  </ul>
 			</div>
 			<div class="area pt10 center">
-			     <a class="btn t3 big" href="http://jkda.jams.or.kr" target="_blank" >온라인 논문투고 심사시스템</a>
+			     <a class="btn t3 big" href="http://jkda.jams.or.kr" target="_blank" >온라인논문투고·심사시스템</a>
                  <a class="btn t3 big" href="/kp_journal_law02.do" >논문심사규정</a>
             </div>
         </div>

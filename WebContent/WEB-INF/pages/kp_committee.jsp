@@ -16,8 +16,8 @@
 	<div class="sp_body">
 	  
 		<div class="area text s1 mt50">
-            <div class="box bw3 w400 h30 ac p10 center">
-                <p class="title bold t5 cm">대한영양사협회 학술지편집위원회 (임기 : 2024~2025년)</p>
+            <div class="box bw3 w550 h30 ac p10 center">
+                <p class="title bold t2 cm">대한영양사협회 학술지편집위원회 (임기 : 2024~2025년)</p>
 		    </div> 
 		</div>   
 		 

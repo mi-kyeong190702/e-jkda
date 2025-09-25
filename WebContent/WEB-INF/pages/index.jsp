@@ -262,14 +262,6 @@
 /* TOP 버튼만 살짝 다르게(선택) */
 .qb-top .qb-ico{ background:#eef2ff; }
 
-/* 다크모드(선택사항) */
-@media (prefers-color-scheme: dark){
-  .quick-btn{
-    --qb-border:#273042; --qb-bg:#0b1220; --qb-bg-hover:#111a2b; --qb-ink:#e6eefc;
-  }
-  .qb-ico{ background:#0f1b33; border-color:#213055; }
-}
- 
 
 /* 반응형: 992px 이하에서는 하단 바로 전환 */
 @media (max-width: 992px){
