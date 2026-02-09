@@ -35,7 +35,7 @@
 	          
              <h5 class="title bold i_b_t6" >논문심사 방법</h5>
              
-             <div class="journal-info">
+             <div class="journal-info mt20">
 			  <p class="sh-lead"> 
 			             대한영양사협회 학술지에 투고한 논문은 대한영양사협회 학술지 논문심사규정에 따라 심사를 진행한다. 
 			  </p>

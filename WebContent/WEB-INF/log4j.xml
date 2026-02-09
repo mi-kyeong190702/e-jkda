@@ -12,7 +12,7 @@
    <appender name="dailyout" class="org.apache.log4j.DailyRollingFileAppender">  
         <!-- param name="file" value="C:/APM_Setup/htdocs/dietitian.or.kr_ver3/WebContent/WEB-INF/log/dailyout.log"/ -->  
 <!-- 		<param name="file" value="C:\\WEB\\dietitian.or.kr_ver3_log\\dailyout.log"/> -->
-		<param name="file" value="D:\\WEB\\jkdaProject_log\\dailyout.log"/>
+		<param name="file" value="C:\\WEB\\jkdaProject_log\\dailyout.log"/>
         <param name="Append" value="true"/>  
         <param name="DatePattern" value="'.'yyMMdd"/>  
         <layout class="org.apache.log4j.PatternLayout">  

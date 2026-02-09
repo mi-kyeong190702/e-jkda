@@ -1,11 +1,24 @@
-<%@ page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<%@ taglib prefix="c"           uri="http://java.sun.com/jsp/jstl/core" %>
+<%@ taglib prefix="fn"          uri="http://java.sun.com/jsp/jstl/functions"  %>
+<%@ taglib prefix="kda"         uri="/WEB-INF/tld/kda.tld" %>
+<%@ taglib prefix="kdaFunc"     uri="/WEB-INF/tld/kda-func.tld" %>
+<%@ taglib prefix="spring"  uri="http://www.springframework.org/tags" %>
+ 
 <div class="subhead-band">
     <div class="container subhead">
       <div class="cover-card">
         <span class="accent-bar"></span>
-        <img src="/images/kp_journal_201606.jpg" alt="학술지 커버 미리보기" >
+        <!-- <img src="/images/kp_journal_201606.jpg" alt="학술지 커버 미리보기" > -->
+        <c:if test="${not empty imagename}">
+
+		    <c:forTokens var="token" items="${imagename}" delims="/">
+		        <c:set var="onlyFile" value="${token}" />
+		    </c:forTokens>
+		
+		    <img src="https://www.dietitian.or.kr/upload/publication/sImage/${onlyFile}">
+		
+		</c:if>
       </div>
       <div> 
         <p class="sh-lead">

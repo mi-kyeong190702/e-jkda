@@ -27,7 +27,14 @@
 	         
              <!-- 190122modi --> 
              <div class="kp_journal_e">
-             	<img src="/images/202508061400444021.jpg"> <!-- /images/publication/icon_journal_201901.png -->
+	            <c:if test="${not empty imagename}">
+				    <c:forTokens var="token" items="${imagename}" delims="/">
+				        <c:set var="onlyFile" value="${token}" />
+				    </c:forTokens>
+				
+				    <img src="https://www.dietitian.or.kr/upload/publication/sImage/${onlyFile}">
+				</c:if>
+              <!-- /images/publication/icon_journal_201901.png -->
              	<c:if test="${sessionScope.user_level == 1}">	
                  <p><a href="/kp_ebook_list_form.do"><img src="/images/btn_add_ebook.png" alt="등록하기"></a></p>
                  </c:if>

@@ -26,6 +26,13 @@
         </fileset>
       </classpath>
     </javac>
+    <!-- Copy XML mapper files and other resources -->
+    <copy todir="${build.dir}/WEB-INF/classes">
+      <fileset dir="${src.dir}">
+        <include name="**/*.xml"/>
+        <include name="**/*.properties"/>
+      </fileset>
+    </copy>
   </target>
 
   <target name="war" depends="compile">

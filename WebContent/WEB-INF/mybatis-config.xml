@@ -10,8 +10,9 @@
         <setting name="defaultExecutorType"			value="SIMPLE"/>  
         <setting name="defaultStatementTimeout"		value="25000"/>  
     </settings>
-    <mappers>   
+    <!-- 매퍼는 applicationContext.xml의 mapperLocations에서 자동 스캔됨 -->
+    <!-- <mappers>   
         <mapper resource="mybatis/kp_column.xml"/>
-    </mappers>
+    </mappers> -->
 	 
 </configuration>

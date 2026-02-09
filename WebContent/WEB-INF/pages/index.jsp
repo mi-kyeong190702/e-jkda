@@ -5,11 +5,11 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
     <meta property="og:type" content="website"> 
-    <meta property="og:title" content="대한영양사협회">
+    <meta property="og:title" content="대한영양사협회 학술지">
     <!-- 이미지 파일 교체 후 사용하세요, 카카오 og 캐시 삭제: https://developers.kakao.com/tool/debugger/sharing -->
-    <meta property="og:image"  content="https://www.dietitian.or.kr/images/common/logo_kda.png">
-    <meta property="og:description" content="대한영양사 협회 홈페이지">
-    <meta property="og:site_name" content="대한영양사협회">
+    <meta property="og:image"  content="https://e-jkda.or.kr/images/jkda_logo.png">
+    <meta property="og:description" content="대한영양사 협회 학술지">
+    <meta property="og:site_name" content="대한영양사협회 학술지">
     <meta property="og:locale" content="ko_KR">
     <title>사단법인 대한영양사협회 학술지</title> 
     <link rel="stylesheet" href="/css/type1/reset.css">

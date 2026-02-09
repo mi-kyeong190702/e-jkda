@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Context>
+  <!-- JNDI DataSource 설정 (jdbc/dataSource1) -->
   <Resource
-      name="jdbc/MyDS"
+      name="jdbc/dataSource1"
       auth="Container"
       type="javax.sql.DataSource"
-      driverClassName="com.mysql.jdbc.Driver"
-      url="jdbc:mysql://127.0.0.1:3306/mydb?useUnicode=true&amp;charsetEncoding=UTF-8&amp;useSSL=false&amp;autoReconnect=true"
-      username="myuser"
-      password="mypw"
-
-      maxActive="30"
+      
+      driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver"
+      url="jdbc:sqlserver://127.0.0.1:1433;databaseName=test;encrypt=false;trustServerCertificate=true"
+      username="app_login"
+      password="1234"
+      
+      maxTotal="30"
       maxIdle="10"
-      maxWait="10000"
+      maxWaitMillis="10000"
       validationQuery="SELECT 1"
       testOnBorrow="true"
-      removeAbandoned="true"
+      removeAbandonedOnBorrow="true"
       removeAbandonedTimeout="60"
       logAbandoned="true" />
 </Context>

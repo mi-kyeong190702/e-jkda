@@ -155,11 +155,12 @@ mark.bold {
 .s_page .box .mt30 { margin-top: 30px; }  
 
 /* 반응형 */
-@media (min-width: 768px) {
-  .sp_body > .mt30 {
+@media (min-width: 1000px) {
+  .sp_body > .mt30.use-flex{
     display: flex;
     gap: 20px;
     flex-wrap: wrap;
+    align-items: flex-start;  /* 높이 끌림 방지 */
   }
   .sp_body .fl {
     float: none;
