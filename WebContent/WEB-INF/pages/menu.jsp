@@ -18,7 +18,7 @@
         <a class="nav__link" href="/kp_review.do">학술지 논문심사</a> 
       </li>
       <li class="nav__item--dropdown">
-        <a class="nav__link" href="/kp_ebook_list.do">학술지 검색</a>
+        <a class="nav__link" href="/kp_menu.do">학술지 검색</a>
         <ul class="nav__dropdown">
           <li><a href="/kp_ebook_list.do">e-Book 검색</a></li>
           <li><a href="/kp_journal_search.do">KISS 검색</a></li> 

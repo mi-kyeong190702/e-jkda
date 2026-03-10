@@ -77,7 +77,12 @@ public class firstController extends HttpServlet {
     @RequestMapping("/kp_review.do")
 	public String kp_review(Model model) throws Exception {  
         return "tiles:kp_review";  
-    } 
+    }
+    
+    @RequestMapping("/kp_menu.do")
+	public String kp_menu(Model model) throws Exception {  
+        return "tiles:kp_menu";  
+    }
     
     /* E-Book 추가 */
 	@RequestMapping("/kp_ebook_list.do")

@@ -17,7 +17,7 @@
 	  
 		<div class="area text s1 mt50">
             <div class="box bw3 w550 h30 ac p10 center">
-                <p class="title bold t2 cm">대한영양사협회 학술지편집위원회 (임기 : 2024~2025년)</p>
+                <p class="title bold t2 cm">대한영양사협회 학술지편집위원회 (임기 : 2026~2027년)</p>
 		    </div> 
 		</div>   
 		 
@@ -79,6 +79,10 @@
                     <td scope="row">경희대학교</td>
                 </tr>
                 <tr> 
+                    <td scope="row">조진아</td>
+                    <td scope="row">충남대학교</td>
+                </tr>  
+                <tr> 
                     <td scope="row">채인숙</td>
                     <td scope="row">제주대학교</td>
                 </tr>
@@ -86,10 +90,6 @@
                     <td scope="row">최성은</td>
                     <td scope="row">Queens College</td>
                 </tr>  
-                <tr> 
-                    <td scope="row">현태선</td>
-                    <td scope="row">충북대학교</td>
-                </tr>                                           
 			</tbody>
 		</table>
 		

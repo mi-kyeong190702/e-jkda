@@ -125,7 +125,7 @@
 	      </a>
 	    </div>
 	    --> 
-	    <iframe width="100%" height="1700" scrolling="no" src="/ISS_GotoSearch.do" ></iframe>
+	    <!-- <iframe width="100%" height="1700" scrolling="no" src="/ISS_GotoSearch.do" ></iframe> -->
 	  </div>  
   </main>
   <!-- 사이드 퀵바 -->

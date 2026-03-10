@@ -38,24 +38,21 @@
 			  <h1 class="jh-title">
 			    <span class="brand">대한영양사협회</span> 학술지
 			  </h1>
-			  <div class="jh-sub">
-			    Journal of the Korean Dietetic Association
-			     <span style="color: #006ab6;">ISSN 1225-9861</span>,
-			     <span style="color: #006ab6;">e-ISSN 2383-966X</span>
-			  </div>
 			</div>
             <div class="journal-info">
-			  <p class="sh-lead">
-			    <span class="text-mark">「대한영양사협회 학술지」</span>는 연 4회 발행되며,
-			    <span class="text-mark">2006년 한국연구재단에 등재</span>,
-			    <span class="text-mark">2007년 KoreaMed에 등재</span>되었습니다.
-			  </p>
-			
 			  <ul class="sh-list">
-			    <li class="meta-list">1995년 7월 창간</li>
-			    <li class="meta-list">연 4회(2월 2일, 5월 2일, 8월 2일, 11월 2일) 발간</li>
-			    <li class="meta-list">판형 : B5 size</li>
-			    <li class="meta-list">문의처 : TEL. 02-823-5680(내선 522) / FAX. 02-823-5990 / E-mail. kdabook@kdiet.or.kr</li>
+			    <li class="meta-list">저널명: 대한영양사협회학술지(Journal of the Korean Dietetic Association)</li>
+                <li class="meta-list">학술지 약어명: J Korean Diet Assoc</li>
+                <li class="meta-list">창간연도: 1995년</li>
+                <li class="meta-list">발행간기: 연 4회(2월, 5월, 8월, 11월)</li>
+			    <li class="meta-list">사용언어: 한국어</li>
+			    <li class="meta-list">pISSN: 1225-9861</li>
+			    <li class="meta-list">eISSN: 2383-966X</li>
+			    <li class="meta-list">DOI: 10.14373</li>
+			    <li class="meta-list">목적: 식품·영양·급식 분야에서 영양사의 전문성과 업무능력 향상 및 직역확대에 기여할 수 있는 독창성을 갖춘 원고</li>
+			    <li class="meta-list">범위: 연구논문(original article), 종설(review), 자료(report), 연구단보(research note)</li>
+			    <li class="meta-list">전자 링크: <a class="underline-solid cm" href="https://e-jkda.or.kr" class="link cm" target="_blank">https://e-jkda.or.kr</a></li>
+			    <li class="meta-list">등재 현황: <a href="https://www.kci.go.kr/kciportal/po/search/poInsiSearSoceView.kci?insiGeneInfoBean.insiId=INS000002588&insiGeneInfoBean.gubunCaseNo=7&isPop=N" target="_blank">한국학술지 인용색인(KCI)</a>, <a href="https://koreamed.org/search.php?id=127" target="_blank">대한의학학술지편집인협의회(KoreaMed)</a></li>
 			  </ul>
 			</div>
         </div>
