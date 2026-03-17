@@ -4,9 +4,9 @@
 <mapper namespace="kdaColumn">
 	
  
-	<select id="selectEbookColumnCount" parameterType="hashmap" resultType="int">
+	<select id="selectEbookColumnCount" resultType="int">
 	SELECT
-		COUNT(idx)
+		COUNT(idx) As cnt
 	FROM Tbl_KDA_COLUMN
 	WHERE kda_code = 'EBOOK'
 	</select>

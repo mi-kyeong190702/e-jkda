@@ -56,7 +56,7 @@
                 </tr>
                 <tr> 
                     <td scope="row">신다연</td>
-                    <td scope="row">인하대학교</td>
+                    <td scope="row">이화여자대학교</td>
                 </tr>
                 <tr> 
                     <td scope="row">윤정미</td>
@@ -88,8 +88,12 @@
                 </tr>
                 <tr> 
                     <td scope="row">최성은</td>
-                    <td scope="row">Queens College</td>
+                    <td scope="row">Queens College, CUNY</td>
                 </tr>  
+                <tr> 
+                    <td scope="row">김수호</td>
+                    <td scope="row">(주)메드랑</td>
+                </tr> 
 			</tbody>
 		</table>
 		

@@ -52,7 +52,7 @@
 			    <li class="meta-list">목적: 식품·영양·급식 분야에서 영양사의 전문성과 업무능력 향상 및 직역확대에 기여할 수 있는 독창성을 갖춘 원고</li>
 			    <li class="meta-list">범위: 연구논문(original article), 종설(review), 자료(report), 연구단보(research note)</li>
 			    <li class="meta-list">전자 링크: <a class="underline-solid cm" href="https://e-jkda.or.kr" class="link cm" target="_blank">https://e-jkda.or.kr</a></li>
-			    <li class="meta-list">등재 현황: <a href="https://www.kci.go.kr/kciportal/po/search/poInsiSearSoceView.kci?insiGeneInfoBean.insiId=INS000002588&insiGeneInfoBean.gubunCaseNo=7&isPop=N" target="_blank">한국학술지 인용색인(KCI)</a>, <a href="https://koreamed.org/search.php?id=127" target="_blank">대한의학학술지편집인협의회(KoreaMed)</a></li>
+			    <li class="meta-list">등재 현황: <a href="https://www.kci.go.kr/kciportal/po/search/poInsiSearSoceView.kci?insiGeneInfoBean.insiId=INS000002588&insiGeneInfoBean.gubunCaseNo=7&isPop=N" target="_blank">한국학술지인용색인(KCI)</a>, <a href="https://koreamed.org/search.php?id=127" target="_blank">대한의학학술지편집인협의회(KoreaMed)</a></li>
 			  </ul>
 			</div>
         </div>

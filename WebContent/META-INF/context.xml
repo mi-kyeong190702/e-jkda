@@ -6,10 +6,10 @@
       auth="Container"
       type="javax.sql.DataSource"
       
-      driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver"
-      url="jdbc:sqlserver://127.0.0.1:1433;databaseName=test;encrypt=false;trustServerCertificate=true"
-      username="app_login"
-      password="1234"
+      driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver" 
+      url="jdbc:sqlserver://10.20.100.6:1433;databaseName=dietitian_ver3;encrypt=true;trustServerCertificate=true"
+      username="kda_ver3"
+      password="ver3!2015"
       
       maxTotal="30"
       maxIdle="10"
@@ -18,5 +18,5 @@
       testOnBorrow="true"
       removeAbandonedOnBorrow="true"
       removeAbandonedTimeout="60"
-      logAbandoned="true" />
+      logAbandoned="true" /> 
 </Context>
