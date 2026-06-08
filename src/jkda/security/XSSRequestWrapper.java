@@ -53,7 +53,7 @@ public class XSSRequestWrapper extends HttpServletRequestWrapper {
     		|| key.indexOf("Range") >= 0 )
     		return value;
     		
-    	log.info("Parameter - Name [" + key + "] - Value [" + value + "]");
+    	//log.info("Parameter - Name [" + key + "] - Value [" + value + "]");
     	
         if (value != null) 
         {
